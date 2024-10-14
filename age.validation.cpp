@@ -1,3 +1,5 @@
+// divyansh rastogi
+//23070123048
 #include <iostream>
 using namespace std;
 
@@ -30,3 +32,8 @@ int main() {
 
     return 0;
 }
+
+/* output:-
+Enter your age: 19
+Accepted
+    */
