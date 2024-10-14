@@ -1,3 +1,5 @@
+// divyansh rastogi
+//23070123048
 #include <iostream>
 using namespace std;
 int main() {
@@ -18,3 +20,7 @@ catch(float num){
 }
     return 0;
 }
+/* output:-
+Enter the values of numbers 1 and 2: 12 13
+The answer is 0.923077
+    */
